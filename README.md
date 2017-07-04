@@ -11,7 +11,7 @@ An Object Oriented Programming implementation of a vehicle class.
 
 ## Dependencies 
 * [babel-cli](https://babeljs.io/docs/usage/cli/)
-* [babel](https://babeljs.io/docs/plugins/preset-es2015/)
+* [babel-preset-es2015](https://babeljs.io/docs/plugins/preset-es2015/)
 
 ## Test
 There are some pre-written cases in the app.js file. To test the program, navigate to the program directory on your terminal, type `node app` and press enter.
